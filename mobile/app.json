@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "\u8840\u5727\u8a18\u9332",
+    "slug": "mobile",
+    "scheme": "blood-pressure-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}

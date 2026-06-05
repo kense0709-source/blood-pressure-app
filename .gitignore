@@ -1,0 +1,8 @@
+node_modules/
+.expo/
+temp_app/
+temp_components/
+temp_database/
+temp_types/
+temp_utils/
+temp_sdk54/
